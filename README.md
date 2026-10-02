@@ -1,4 +1,4 @@
-# DS-A2 | Inference and Uncertainty Notebook
+# DS-Assignment1 | Inference and Uncertainty Notebook
 
 ## Project
 Reproducible submission for DS-A2 on FVC2004 federated fingerprint verification.
