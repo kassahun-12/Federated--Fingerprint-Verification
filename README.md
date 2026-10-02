@@ -1,7 +1,7 @@
-# DS-Assignment1 | Inference and Uncertainty Notebook
+# DS-A1 | Data Provenance and Measurement Audit 
 
 ## Project
-Reproducible submission for DS-A2 on FVC2004 federated fingerprint verification.
+Reproducible submission for DS-A1 on FVC2004 federated fingerprint verification.
 
 ## Estimand
 psi_Fed = (1/K) * sum_k (genuine_rate_k - impostor_rate_k)
